@@ -1,0 +1,17 @@
+-over and under exposure: If the photography sensor receives too little (too much) light, the photo becomes dark (bright)
+
+*when an image is under(over) exposure ,histogram is shifted to left(right)
+
+-brightness: brightness of a grayscale image is the average intensity of all pixels in image
+
+-contrast:the contrast of a grayscale image indicates how easily objects in the image can be distinguished
+
+*high(low) contrast image:many(few) unique intensity value
+
+-high dynamic range  means very bright and very dark parts in a single image(many distinct values)
+
+*solution:
+.capture multiple images at different exposures
+.combine them using image processing
+
+-Note:ideal histogram is uniform
